@@ -3,7 +3,7 @@
 /*
 	Question2Answer (c) Gideon Greenspan #Türkçe Çeviri : Ripbyrustavi02
 
-	http://www.question2answer.org/ - http://ritopluluk.ga/
+	http://www.question2answer.org/ - https://discord.gg/XSksVNz
 
 	
 	Dosya: qa-plugin/example-page/qa-example-lang-default.php
@@ -57,7 +57,7 @@
 	);
 
 /*
-	http://Ritopluluk.ga/ tarafından Türkçeleştirilmiştir. İletişim : http://discord.murathalit.design
+	Döngü Yapım tarafından Türkçeleştirilmiştir. İletişim : https://discord.gg/XSksVNz
 	Omit PHP closing tag to help avoid accidental output
 	Unutmayın! Bu program ücretsizdir satılmaya çalışılırsa itibar etmeyiniz.
 */
